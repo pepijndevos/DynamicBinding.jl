@@ -2,7 +2,7 @@
 
 Basically Clojure's [binding](https://clojuredocs.org/clojure.core/binding).
 
-```
+```julia
 julia> using DynamicBinding
 
 julia> a = Binding(1)
